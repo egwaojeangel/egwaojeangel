@@ -2,7 +2,7 @@
 
 **Machine Learning Engineer | Medical Imaging & Computer Vision**
 
-I build deep learning systems that solve real clinical problems — from diabetic retinopathy detection to brain tumour segmentation.
+I build deep learning systems that solve real clinical problems, from diabetic retinopathy detection to brain tumour segmentation.
 
 ---
 
