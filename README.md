@@ -42,4 +42,4 @@ I build deep learning systems that solve real clinical problems, from diabetic r
 
 ---
 
-*Currently training an EfficientNet-B4 model on 115K retinal images. Updates coming soon.* 👀
+*Currently working on a new project named "SkillBridge". Updates coming soon.* 👀
