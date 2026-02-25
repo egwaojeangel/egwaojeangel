@@ -10,7 +10,7 @@ I build deep learning systems that solve real clinical problems, from diabetic r
 
 - **Medical Image Analysis** — retinal scans, MRI, CT imaging
 - **Deep Learning** — EfficientNet, ResNet, U-Net architectures
-- **Interpretable AI** — Grad-CAM visualisations for clinical explainability
+- **Interpretable AI** — Grad-CAM visualizations for clinical explainability
 - **End-to-End Systems** — model training to deployed web applications
 
 ---
