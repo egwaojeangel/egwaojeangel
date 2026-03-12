@@ -40,6 +40,4 @@ I build deep learning systems that solve real clinical problems, from diabetic r
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-egwaoje-416927280)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://egwaojeangel.github.io)
 
----
 
-*Currently working on a new project named "SkillBridge". Updates coming soon.* 👀
