@@ -1,7 +1,7 @@
 # Hi, I'm Angel 👋
 **Machine Learning Engineer | Medical Imaging, Computer Vision & AI Applications**
 
-I build deep learning systems and AI-powered applications that solve real problems — from diabetic retinopathy detection to automated career gap analysis.
+I build deep learning systems and AI-powered applications that solve real problems, from diabetic retinopathy detection to automated career gap analysis.
 
 ---
 
